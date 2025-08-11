@@ -33,7 +33,7 @@ This project takes a user input and rewords it into 4 different styles.
 5. Start the frontend React Application by running `npm run start` in the `.\au-writing-assistant\ai-app\` directory.
 
 The Flask server should default to `http://localhost:5000`
-The Flask API route shoudl befound at `http://localhost:5000/getResponse`
+The Flask API route should be found at `http://localhost:5000/getResponse`
 The React Application should default to `http://localhost:3000`
 
 ## Tests
