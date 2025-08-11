@@ -1,0 +1,16 @@
+.responseBox {
+    width: 45%;
+}
+
+#responseBox_Professional {
+    background: #F7DAE5
+}
+#responseBox_Casual {
+    background: #C3E2E6
+}
+#responseBox_Polite {
+    background: #D0CCE0
+}
+#responseBox_Social\ Media {
+    background: #FFF2E1
+}
