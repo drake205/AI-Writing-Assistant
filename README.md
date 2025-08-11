@@ -15,7 +15,7 @@ This project takes a user input and rewords it into 4 different styles.
     * Google Gemini API quickstart can be found here at https://ai.google.dev/gemini-api/docs/quickstart
 
 ### Frontend
-* To install the node modules `npm install` in the `.\au-writing-assistant\ai-app\` directory.
+* To install the node modules run `npm install` in the `.\au-writing-assistant\ai-app\` directory.
 * Material UI `npm install @mui/material @emotion/react @emotion/styled`
     * Material UI setup can be found here at https://mui.com/material-ui/getting-started/installation/
 * Font `npm install @fontsource/roboto`
