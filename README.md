@@ -6,6 +6,8 @@ This project takes a user input and rewords it into 4 different styles.
 * Polite
 * Social Media
 
+<img width="1920" height="996" alt="page" src="https://github.com/user-attachments/assets/eab23079-e74c-4a7a-81b1-a07a778598b8" />
+
 ## Packages
 
 ###  Backend
