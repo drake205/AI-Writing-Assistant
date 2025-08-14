@@ -17,7 +17,7 @@ This project takes a user input and rewords it into 4 different styles.
     * Google Gemini API quickstart can be found here at https://ai.google.dev/gemini-api/docs/quickstart
 
 ### Frontend
-* To install the node modules run `npm install` in the `.\au-writing-assistant\ai-app\` directory.
+* To install the node modules run `npm install` in the `.\ai-writing-assistant\ai-app\` directory.
 * Material UI `npm install @mui/material @emotion/react @emotion/styled`
     * Material UI setup can be found here at https://mui.com/material-ui/getting-started/installation/
 * Font `npm install @fontsource/roboto`
@@ -30,7 +30,7 @@ This project takes a user input and rewords it into 4 different styles.
 2. Install any packages still needed for React and Python. (Found in packages section)
 3. Replace the placeholder `YOUR_API_KEY` API key in `server.py` to your own Google Gemini API key.
 4. Start the backend Flask server by running `python server.py` in the `.\ai-writing-assistant\flask-server\` directory.
-5. Start the frontend React Application by running `npm run start` in the `.\au-writing-assistant\ai-app\` directory.
+5. Start the frontend React Application by running `npm run start` in the `.\ai-writing-assistant\ai-app\` directory.
 
 The Flask server should default to `http://localhost:5000`
 The Flask API route should be found at `http://localhost:5000/getResponse`
@@ -47,4 +47,4 @@ Tests for title text, text field input label, and process button on render.
 Tests for title text on render.
 Tests for response text on render.
 
-To run these tests run `npm run test` in the `.\au-writing-assistant\ai-app\` directory.
+To run these tests run `npm run test` in the `.\ai-writing-assistant\ai-app\` directory.
